@@ -1,0 +1,21 @@
+.items-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+}
+.icon-image {
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+.title-name {
+    margin-left: 20px;
+}
+.url {
+    margin-left: 20px;
+}
+.delete-button {
+    border: none;
+    background: transparent;
+}
